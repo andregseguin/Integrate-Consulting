@@ -1,7 +1,10 @@
 {
-  "name": "vanilla-basic",
+  "name": "agency-modern-template",
   "version": "1.0.0",
-  "scripts": { 
-    "start": "sirv ./src public --cors --single --no-clear --port 8000"
-  }
+  "private": true,
+  "dependencies": {
+    "parcel-bundler": "^1.6.1"
+  },
+  "scripts": {},
+  "devDependencies": {}
 }
